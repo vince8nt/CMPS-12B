@@ -1,0 +1,2 @@
+A simple Java program that takes in the name of an input and output file as arguments.
+It prints a reverse of the string in the input file to the output file.
